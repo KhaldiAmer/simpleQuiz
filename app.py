@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-from constants import *
+from constants import easy,medium,hard,easy_answers,medium_answers,hard_answers
 
 def startQuiz():
 	""" starts the quiz and directs the user to the specified level. """
